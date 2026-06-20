@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+
+
+# Environment
+.env
+.venv/
+venv/
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+# Temporary notebooks/backups
+notebooks/*backup*
+notebooks/*Backup*
+notebooks/*old*
+
+
+# Generated files
+reports/
+data/history.json
+
+
+# Editor
+.vscode/
+
+
+# System
+.DS_Store

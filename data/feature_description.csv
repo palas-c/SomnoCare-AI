@@ -1,0 +1,33 @@
+Feature,Category,Description
+Age,Personal,User age
+Gender,Personal,User gender
+Occupation,Personal,Work category
+Sleep Duration,Sleep Metric,Total sleep hours
+Sleep Efficiency,Sleep Metric,Percentage effectiveness of sleep
+Sleep Consistency,Sleep Metric,Regularity of sleep routine
+Deep Sleep Percentage,Sleep Metric,Deep sleep proportion
+REM Sleep Percentage,Sleep Metric,REM sleep proportion
+Night Awakenings,Sleep Metric,Number of sleep interruptions
+Physical Activity Level,Fitness,Daily activity score
+Daily Steps,Fitness,Step count
+Exercise Frequency,Fitness,Exercise days per week
+Calories Burned,Fitness,Energy expenditure
+BMI,Health,Body mass index value
+BMI Category,Health,BMI classification
+Blood Pressure,Health,Blood pressure reading
+Heart Rate,Health,Average heart rate
+Resting Heart Rate,Health,Resting pulse
+Screen Time Before Bed,Lifestyle,Device usage before sleep
+Caffeine Intake,Lifestyle,Daily caffeine consumption
+Alcohol Consumption,Lifestyle,Alcohol habit
+Smoking Status,Lifestyle,Smoking habit
+Work Hours,Lifestyle,Daily working hours
+Stress Level,Mental Wellness,Stress score
+Anxiety Level,Mental Wellness,Anxiety score
+Mood Score,Mental Wellness,Mood rating
+Fatigue Level,Mental Wellness,Tiredness score
+Noise Level,Environment,Sleeping environment noise
+Room Temperature,Environment,Room temperature
+Light Exposure Before Sleep,Environment,Light exposure
+Sleep Disorder,Health Output,Detected sleep disorder category
+Quality of Sleep,Target,Prediction target variable
