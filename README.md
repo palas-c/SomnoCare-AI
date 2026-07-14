@@ -263,7 +263,7 @@ Modern Institute of Engineering and Technology (MIET).
 
 - **Palash Chal** — Machine Learning Engineering, Backend Development, Streamlit Application Development, Model Integration
 
-- **Sayan Ghosh** — Project Research and Documentation
+- **Suraj Basu** — Project Research and Documentation
 
 - **Monorama Adhikary** — Research Support and Testing
 
